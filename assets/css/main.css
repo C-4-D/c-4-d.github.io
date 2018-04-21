@@ -2307,7 +2307,7 @@ body.is-touch .main {
 }
 /* seven */
 #seven {
-    background: url("images/overlay.png"), url("../../images/Where.png");
+    background: url("images/overlay.png"), url("../../images/where.png");
     background-size: 1256px 1256px, cover;
     background-attachment: fixed, fixed;
     background-repeat: repeat, no-repeat;
